@@ -55,7 +55,12 @@ pip install opencv-python numpy PyQt5
 
 
 ## **Screenshots**  
-📌 *Add relevant screenshots of the GUI showing the upload, filtering, and download process*  
+<img width="1512" alt="1" src="https://github.com/user-attachments/assets/dd6c321c-7e4d-4dca-b255-404c3d2c49c1" />
+<img width="1512" alt="2" src="https://github.com/user-attachments/assets/f8db70c2-8d5a-46bd-9f12-c37401df7be6" />
+<img width="1512" alt="3" src="https://github.com/user-attachments/assets/d1f81021-6879-455b-aa14-93f54175f249" />
+<img width="1512" alt="4" src="https://github.com/user-attachments/assets/24c8ecfb-104d-49bd-8119-7849660f932a" />
+<img width="1512" alt="5" src="https://github.com/user-attachments/assets/a2a1950c-f434-4173-95aa-435d837884a7" />
+<img width="1512" alt="6" src="https://github.com/user-attachments/assets/7d6f67a3-ca84-44d4-aaa2-ad449ada3bd0" />
 
 
 ## **Contributors**  
